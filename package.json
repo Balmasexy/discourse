@@ -1,8 +1,8 @@
 {
-  "name": "discourse",
+  "name": "World individual EXP",
   "private": true,
-  "repository": "https://github.com/discourse/discourse",
-  "author": "Discourse",
+  "repository": "https://github.com/worldindividualex/"worldindividualex,
+  "author": "Balmasexy",
   "license": "GPL-2.0-only",
   "devDependencies": {
     "@babel/plugin-proposal-decorators": "^7.28.0",
