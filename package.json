@@ -1,7 +1,7 @@
 {
   "name": "World individual EXP",
   "private": true,
-  "repository": "https://github.com/worldindividualex/"worldindividualex,
+  "repository": "https://github.com/worldindividualex/"discourse,
   "author": "Balmasexy",
   "license": "GPL-2.0-only",
   "devDependencies": {
